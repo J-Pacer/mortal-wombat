@@ -69,7 +69,7 @@ export const defaultTileTypes = {
     jumpingImage:
       'https://piskel-imgstore-b.appspot.com/img/4439c4fd-cdb9-11ec-9ce8-2f9ec14027c3.gif',
     diggingImage:
-      'https://piskel-imgstore-b.appspot.com/img/3a751840-cdb9-11ec-8175-2f9ec14027c3.gif',
+      'https://files.slack.com/files-pri/T02M6E96A30-F041N6XJNLW/wombat_diggingresized.gif',
     crouchingImage:
       'https://piskel-imgstore-b.appspot.com/img/32ac8f9e-cdb9-11ec-9e05-2f9ec14027c3.gif',
     label: 'wombat',
