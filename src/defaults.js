@@ -67,7 +67,7 @@ export const defaultTileTypes = {
     pushingImage:
       'https://piskel-imgstore-b.appspot.com/img/586bb7e6-cdb9-11ec-a846-2f9ec14027c3.gif',
     jumpingImage:
-      'https://piskel-imgstore-b.appspot.com/img/4439c4fd-cdb9-11ec-9ce8-2f9ec14027c3.gif',
+      'https://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/67e2db0b572e2cd.png',
     diggingImage:
       'https://piskel-imgstore-b.appspot.com/img/3a751840-cdb9-11ec-8175-2f9ec14027c3.gif',
     crouchingImage:
